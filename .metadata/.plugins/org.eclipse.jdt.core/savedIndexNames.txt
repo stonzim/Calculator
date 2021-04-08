@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/winston/Desktop/Calculator/.metadata/.plugins/org.eclipse.jdt.core
+387991146.index
+1828089775.index

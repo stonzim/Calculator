@@ -1,0 +1,541 @@
+2021-02-25 14:23:32,847 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-02-25 14:39:01,060 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/winston/Desktop/delete/stuff/pom.xml
+2021-02-25 14:39:03,103 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: stuff:stuff:0.0.1-SNAPSHOT @ /Users/winston/Desktop/delete/stuff/pom.xml.
+2021-02-25 14:39:03,962 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /stuff/src/main/java
+2021-02-25 14:39:03,969 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /stuff/src/test/java
+2021-02-25 14:39:06,517 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2021-02-25 14:39:08,217 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 14:39:08,217 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 14:39:08,220 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 14:39:08,221 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 14:39:22,406 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 14:39:22,406 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 14:39:22,408 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 14:39:22,408 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 14:44:51,730 [Worker-27: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 14:44:51,743 [Worker-27: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 14:44:51,777 [Worker-27: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 14:44:51,778 [Worker-27: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 14:58:42,339 [Worker-31: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 14:58:42,341 [Worker-31: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 14:58:42,348 [Worker-31: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 14:58:42,348 [Worker-31: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 15:23:31,779 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:23:31,782 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 15:23:31,785 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:23:31,786 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 15:36:16,316 [Worker-46: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:36:16,318 [Worker-46: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 15:36:16,321 [Worker-46: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:36:16,322 [Worker-46: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 15:37:11,646 [Worker-47: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:37:11,646 [Worker-47: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 15:37:11,648 [Worker-47: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:37:11,648 [Worker-47: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 15:40:28,799 [Worker-41: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:40:28,800 [Worker-41: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 15:40:28,804 [Worker-41: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:40:28,804 [Worker-41: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 15:41:18,406 [Worker-44: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:41:18,406 [Worker-44: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 15:41:18,408 [Worker-44: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:41:18,408 [Worker-44: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 15:42:16,307 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:42:16,307 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 15:42:16,310 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:42:16,310 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 15:55:24,666 [Worker-44: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:55:24,667 [Worker-44: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 15:55:24,669 [Worker-44: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:55:24,669 [Worker-44: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 15:56:53,489 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:56:53,490 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 15:56:53,492 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:56:53,492 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 15:58:17,307 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:58:17,307 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 15:58:17,311 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:58:17,311 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 15:58:56,089 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:58:56,089 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 15:58:56,099 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 15:58:56,099 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 16:00:15,655 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 16:00:15,656 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 16:00:15,658 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 16:00:15,658 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 16:02:29,833 [Worker-41: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 16:02:29,833 [Worker-41: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 16:02:29,835 [Worker-41: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 16:02:29,835 [Worker-41: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 19:32:55,811 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 19:32:55,815 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 19:32:55,818 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 19:32:55,818 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 19:34:56,779 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 19:34:56,779 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 19:34:56,786 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 19:34:56,787 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 19:37:20,951 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 19:37:20,952 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 19:37:20,953 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 19:37:20,953 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 19:42:36,186 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 19:42:36,188 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 19:42:36,190 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 19:42:36,191 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 20:08:57,225 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 20:08:57,228 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 20:08:57,230 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 20:08:57,231 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 20:09:15,546 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 20:09:15,546 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 20:09:15,548 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 20:09:15,548 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 20:31:52,207 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 20:31:52,210 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 20:31:52,214 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 20:31:52,215 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 20:43:42,757 [Worker-74: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 20:43:42,760 [Worker-74: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 20:43:42,762 [Worker-74: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 20:43:42,763 [Worker-74: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 20:50:17,493 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 20:50:17,494 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 20:50:17,499 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 20:50:17,499 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 20:55:08,653 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 20:55:08,653 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 20:55:08,656 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 20:55:08,657 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 20:58:01,513 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 20:58:01,513 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 20:58:01,516 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 20:58:01,517 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 21:09:52,821 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:09:52,824 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 21:09:52,825 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:09:52,825 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 21:31:44,193 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:31:44,195 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 21:31:44,197 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:31:44,197 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 21:41:14,032 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:41:14,033 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 21:41:14,041 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:41:14,042 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 21:46:45,477 [Worker-83: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:46:45,478 [Worker-83: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 21:46:45,480 [Worker-83: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 21:46:45,480 [Worker-83: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 23:44:39,808 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 23:44:39,822 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 23:44:39,846 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 23:44:39,846 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 23:46:49,235 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 23:46:49,236 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 23:46:49,242 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 23:46:49,242 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 23:50:33,335 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 23:50:33,336 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 23:50:33,340 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 23:50:33,340 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-25 23:54:18,155 [Worker-91: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 23:54:18,155 [Worker-91: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-25 23:54:18,156 [Worker-91: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-25 23:54:18,156 [Worker-91: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-26 00:06:11,029 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 00:06:11,033 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-26 00:06:11,035 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 00:06:11,035 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-26 23:25:18,692 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-02-26 23:43:15,754 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:43:15,755 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-26 23:43:15,757 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:43:15,757 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-26 23:44:25,674 [Worker-19: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:44:25,675 [Worker-19: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-26 23:44:25,678 [Worker-19: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:44:25,679 [Worker-19: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-26 23:51:12,888 [Worker-20: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:51:12,889 [Worker-20: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-26 23:51:12,890 [Worker-20: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:51:12,890 [Worker-20: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-26 23:52:25,068 [Worker-17: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:52:25,068 [Worker-17: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-26 23:52:25,069 [Worker-17: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:52:25,070 [Worker-17: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-26 23:54:09,360 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:54:09,360 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-26 23:54:09,362 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:54:09,363 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-26 23:54:48,602 [Worker-17: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:54:48,602 [Worker-17: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-26 23:54:48,604 [Worker-17: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:54:48,604 [Worker-17: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-26 23:55:10,271 [Worker-20: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:55:10,271 [Worker-20: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-26 23:55:10,275 [Worker-20: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:55:10,275 [Worker-20: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-26 23:56:58,287 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:56:58,288 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-26 23:56:58,293 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:56:58,293 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-26 23:59:35,033 [Worker-27: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:59:35,034 [Worker-27: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-26 23:59:35,035 [Worker-27: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-26 23:59:35,036 [Worker-27: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-27 00:00:20,528 [Worker-28: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 00:00:20,528 [Worker-28: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-27 00:00:20,531 [Worker-28: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 00:00:20,531 [Worker-28: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-27 00:01:57,569 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 00:01:57,569 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-27 00:01:57,572 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 00:01:57,572 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-27 00:09:47,856 [Worker-34: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 00:09:47,856 [Worker-34: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-27 00:09:47,858 [Worker-34: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 00:09:47,858 [Worker-34: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-28 06:09:51,189 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 06:09:51,191 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-28 06:09:51,194 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 06:09:51,194 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-28 06:33:58,392 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 06:33:58,393 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-28 06:33:58,395 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 06:33:58,395 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-28 06:35:56,470 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 06:35:56,471 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-28 06:35:56,472 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 06:35:56,473 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-28 06:38:42,890 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 06:38:42,890 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-28 06:38:42,893 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 06:38:42,893 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-28 06:39:42,453 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 06:39:42,454 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-28 06:39:42,457 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 06:39:42,457 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-28 06:46:32,501 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 06:46:32,504 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-28 06:46:32,506 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 06:46:32,506 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-28 06:50:29,208 [Worker-97: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 06:50:29,209 [Worker-97: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-28 06:50:29,210 [Worker-97: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 06:50:29,211 [Worker-97: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-28 06:51:44,772 [Worker-91: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 06:51:44,773 [Worker-91: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-28 06:51:44,776 [Worker-91: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 06:51:44,776 [Worker-91: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-28 07:00:49,563 [Worker-103: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 07:00:49,564 [Worker-103: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-28 07:00:49,597 [Worker-103: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 07:00:49,600 [Worker-103: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-28 07:02:27,507 [Worker-103: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 07:02:27,507 [Worker-103: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-28 07:02:27,508 [Worker-103: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 07:02:27,509 [Worker-103: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-28 07:06:07,734 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 07:06:07,734 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-28 07:06:07,735 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 07:06:07,735 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-28 07:08:50,081 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 07:08:50,082 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-28 07:08:50,088 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 07:08:50,088 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-02-28 07:10:57,941 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 07:10:57,941 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-02-28 07:10:57,942 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-28 07:10:57,943 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-03 21:07:51,094 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 21:07:51,096 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-03 21:07:51,098 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 21:07:51,099 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-03 21:09:11,925 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 21:09:11,926 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-03 21:09:11,928 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 21:09:11,928 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-03 21:35:08,227 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 21:35:08,228 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-03 21:35:08,230 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 21:35:08,231 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-03 21:36:41,929 [Worker-244: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 21:36:41,929 [Worker-244: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-03 21:36:41,930 [Worker-244: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 21:36:41,931 [Worker-244: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-03 21:48:36,675 [Worker-251: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 21:48:36,675 [Worker-251: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-03 21:48:36,684 [Worker-251: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 21:48:36,684 [Worker-251: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-03 21:56:27,632 [Worker-253: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 21:56:27,633 [Worker-253: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-03 21:56:27,637 [Worker-253: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 21:56:27,637 [Worker-253: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-03 21:57:51,156 [Worker-247: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 21:57:51,158 [Worker-247: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-03 21:57:51,160 [Worker-247: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 21:57:51,160 [Worker-247: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-03 22:13:01,788 [Worker-258: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 22:13:01,788 [Worker-258: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-03 22:13:01,792 [Worker-258: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 22:13:01,792 [Worker-258: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-03 22:24:19,618 [Worker-262: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 22:24:19,621 [Worker-262: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-03 22:24:19,623 [Worker-262: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 22:24:19,623 [Worker-262: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-03 22:27:02,514 [Worker-263: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 22:27:02,514 [Worker-263: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-03 22:27:02,517 [Worker-263: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 22:27:02,517 [Worker-263: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-03 22:54:43,895 [Worker-275: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 22:54:43,896 [Worker-275: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-03 22:54:43,899 [Worker-275: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 22:54:43,900 [Worker-275: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-03 23:50:08,124 [Worker-288: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 23:50:08,130 [Worker-288: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-03 23:50:08,134 [Worker-288: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-03 23:50:08,134 [Worker-288: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-05 20:11:04,408 [Worker-404: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:11:04,419 [Worker-404: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-05 20:11:04,441 [Worker-404: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:11:04,441 [Worker-404: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-05 20:31:39,338 [Worker-413: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:31:39,340 [Worker-413: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-05 20:31:39,343 [Worker-413: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:31:39,344 [Worker-413: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-05 20:35:31,603 [Worker-413: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:35:31,603 [Worker-413: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-05 20:35:31,605 [Worker-413: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:35:31,605 [Worker-413: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-05 20:36:40,379 [Worker-416: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:36:40,379 [Worker-416: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-05 20:36:40,382 [Worker-416: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:36:40,382 [Worker-416: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-05 20:38:40,690 [Worker-416: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:38:40,691 [Worker-416: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-05 20:38:40,693 [Worker-416: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:38:40,693 [Worker-416: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-05 20:40:49,613 [Worker-413: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:40:49,614 [Worker-413: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-05 20:40:49,616 [Worker-413: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:40:49,617 [Worker-413: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-05 20:42:42,038 [Worker-419: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:42:42,038 [Worker-419: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-05 20:42:42,040 [Worker-419: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:42:42,040 [Worker-419: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-05 20:44:04,136 [Worker-413: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:44:04,136 [Worker-413: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-05 20:44:04,137 [Worker-413: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:44:04,138 [Worker-413: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-05 20:47:16,915 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:47:16,915 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-05 20:47:16,918 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:47:16,918 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-05 20:50:00,486 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:50:00,486 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-05 20:50:00,487 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-05 20:50:00,488 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-24 19:41:49,033 [Worker-1065: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 19:41:49,038 [Worker-1065: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-24 19:41:49,041 [Worker-1065: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 19:41:49,041 [Worker-1065: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-24 19:45:57,122 [Worker-1063: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 19:45:57,123 [Worker-1063: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-24 19:45:57,125 [Worker-1063: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 19:45:57,125 [Worker-1063: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-24 19:51:24,509 [Worker-1071: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 19:51:24,509 [Worker-1071: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-24 19:51:24,511 [Worker-1071: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 19:51:24,512 [Worker-1071: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-24 19:52:30,729 [Worker-1070: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 19:52:30,731 [Worker-1070: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-24 19:52:30,733 [Worker-1070: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 19:52:30,733 [Worker-1070: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-24 20:22:26,368 [Worker-1084: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 20:22:26,372 [Worker-1084: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-24 20:22:26,374 [Worker-1084: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 20:22:26,374 [Worker-1084: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-24 20:26:08,612 [Worker-1087: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 20:26:08,613 [Worker-1087: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-24 20:26:08,615 [Worker-1087: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 20:26:08,615 [Worker-1087: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-24 20:29:39,250 [Worker-1090: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 20:29:39,252 [Worker-1090: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-24 20:29:39,253 [Worker-1090: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 20:29:39,254 [Worker-1090: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-24 20:33:14,424 [Worker-1094: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 20:33:14,424 [Worker-1094: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-24 20:33:14,426 [Worker-1094: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 20:33:14,426 [Worker-1094: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-24 20:48:04,265 [Worker-1099: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 20:48:04,266 [Worker-1099: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-24 20:48:04,268 [Worker-1099: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 20:48:04,268 [Worker-1099: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-24 20:51:30,213 [Worker-1104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 20:51:30,216 [Worker-1104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-24 20:51:30,218 [Worker-1104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-24 20:51:30,218 [Worker-1104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 20:04:38,574 [Worker-1164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 20:04:38,579 [Worker-1164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 20:04:38,581 [Worker-1164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 20:04:38,581 [Worker-1164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 20:48:55,061 [Worker-1180: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 20:48:55,063 [Worker-1180: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 20:48:55,065 [Worker-1180: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 20:48:55,065 [Worker-1180: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 20:51:34,282 [Worker-1184: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 20:51:34,282 [Worker-1184: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 20:51:34,283 [Worker-1184: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 20:51:34,283 [Worker-1184: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 20:53:06,329 [Worker-1180: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 20:53:06,329 [Worker-1180: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 20:53:06,330 [Worker-1180: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 20:53:06,330 [Worker-1180: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 21:00:52,577 [Worker-1186: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:00:52,578 [Worker-1186: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 21:00:52,580 [Worker-1186: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:00:52,580 [Worker-1186: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 21:02:42,506 [Worker-1192: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:02:42,506 [Worker-1192: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 21:02:42,508 [Worker-1192: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:02:42,508 [Worker-1192: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 21:03:20,502 [Worker-1186: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:03:20,507 [Worker-1186: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 21:03:20,509 [Worker-1186: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:03:20,509 [Worker-1186: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 21:03:47,663 [Worker-1194: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:03:47,663 [Worker-1194: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 21:03:47,664 [Worker-1194: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:03:47,666 [Worker-1194: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 21:07:51,985 [Worker-1186: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:07:51,986 [Worker-1186: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 21:07:51,989 [Worker-1186: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:07:51,989 [Worker-1186: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 21:49:17,102 [Worker-1200: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:49:17,104 [Worker-1200: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 21:49:17,105 [Worker-1200: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:49:17,105 [Worker-1200: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 21:51:05,902 [Worker-1201: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:51:05,902 [Worker-1201: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 21:51:05,904 [Worker-1201: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:51:05,904 [Worker-1201: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 21:55:23,782 [Worker-1195: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:55:23,782 [Worker-1195: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 21:55:23,784 [Worker-1195: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:55:23,784 [Worker-1195: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 21:57:03,170 [Worker-1207: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:57:03,170 [Worker-1207: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 21:57:03,171 [Worker-1207: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:57:03,171 [Worker-1207: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 21:59:40,426 [Worker-1211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:59:40,426 [Worker-1211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 21:59:40,427 [Worker-1211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 21:59:40,427 [Worker-1211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 22:00:17,597 [Worker-1209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 22:00:17,597 [Worker-1209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 22:00:17,598 [Worker-1209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 22:00:17,598 [Worker-1209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 22:01:34,575 [Worker-1213: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 22:01:34,576 [Worker-1213: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 22:01:34,586 [Worker-1213: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 22:01:34,586 [Worker-1213: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 22:02:49,395 [Worker-1211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 22:02:49,396 [Worker-1211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 22:02:49,398 [Worker-1211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 22:02:49,399 [Worker-1211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 22:05:20,000 [Worker-1216: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 22:05:20,000 [Worker-1216: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 22:05:20,001 [Worker-1216: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 22:05:20,002 [Worker-1216: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 22:07:11,656 [Worker-1215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 22:07:11,657 [Worker-1215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 22:07:11,658 [Worker-1215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 22:07:11,659 [Worker-1215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 22:08:52,422 [Worker-1215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 22:08:52,429 [Worker-1215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 22:08:52,430 [Worker-1215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 22:08:52,430 [Worker-1215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 22:11:00,136 [Worker-1215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 22:11:00,136 [Worker-1215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 22:11:00,137 [Worker-1215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 22:11:00,137 [Worker-1215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-25 22:35:12,337 [Worker-1210: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 22:35:12,338 [Worker-1210: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-25 22:35:12,340 [Worker-1210: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-25 22:35:12,340 [Worker-1210: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-26 20:28:30,914 [Worker-1269: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-26 20:28:30,915 [Worker-1269: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-26 20:28:30,917 [Worker-1269: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-26 20:28:30,917 [Worker-1269: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-29 10:08:02,319 [Worker-1336: Creating project "media-spring"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.stonzim.springboot:media-spring:0.0.1-SNAPSHOT @ /Users/winston/Desktop/MediaSpring/pom.xml.
+2021-03-29 10:08:02,553 [Worker-1336: Creating project "media-spring"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /media-spring/src/main/java
+2021-03-29 10:08:02,557 [Worker-1336: Creating project "media-spring"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /media-spring/src/main/resources
+2021-03-29 10:08:02,557 [Worker-1336: Creating project "media-spring"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /media-spring/src/test/java
+2021-03-29 10:08:02,558 [Worker-1336: Creating project "media-spring"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /media-spring/src/test/resources
+2021-03-29 10:08:03,095 [Worker-1331: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-29 10:08:03,125 [Worker-1331: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-29 10:08:03,138 [Worker-1331: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-29 10:08:03,140 [Worker-1331: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-31 20:24:07,353 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-31 20:24:08,135 [Worker-8: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/media-spring/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:851) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$2.call(ProjectRegistryManager.java:1069) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$2.call(ProjectRegistryManager.java:1) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878) ~[na:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045) ~[na:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1067) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) ~[org.eclipse.m2e.core.ui_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:740) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1074) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+2021-03-31 20:31:55,011 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-31 20:31:55,011 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-31 20:31:55,018 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-31 20:31:55,019 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-31 21:05:01,215 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-31 21:05:01,217 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-31 21:05:01,220 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-31 21:05:01,220 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-31 21:22:31,717 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-31 21:22:31,718 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-31 21:22:31,720 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-31 21:22:31,720 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-31 21:23:57,475 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-31 21:23:57,476 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-31 21:23:57,479 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-31 21:23:57,480 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-31 21:25:22,255 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-31 21:25:22,255 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-31 21:25:22,258 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-31 21:25:22,258 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-31 21:25:39,621 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-31 21:25:39,621 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-31 21:25:39,623 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-31 21:25:39,624 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-31 21:27:06,608 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-31 21:27:06,609 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-31 21:27:06,611 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-31 21:27:06,611 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-03-31 21:28:49,090 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-31 21:28:49,090 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/main/resources
+2021-03-31 21:28:49,092 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-31 21:28:49,093 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/delete/stuff/src/test/resources
+2021-04-08 10:56:54,914 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-08 10:56:57,851 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: stuff:stuff:0.0.1-SNAPSHOT @ /Users/winston/Desktop/Calculator/stuff/pom.xml.
+2021-04-08 10:56:59,411 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-08 10:56:59,411 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/Calculator/stuff/src/main/resources
+2021-04-08 10:56:59,415 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-08 10:56:59,415 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/Calculator/stuff/src/test/resources
+2021-04-08 10:57:47,901 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-08 10:57:47,902 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/Calculator/stuff/src/main/resources
+2021-04-08 10:57:47,906 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-08 10:57:47,906 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/winston/Desktop/Calculator/stuff/src/test/resources
